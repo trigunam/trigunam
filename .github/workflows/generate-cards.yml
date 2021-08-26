@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Data
 
 on:
   schedule: # execute every 12 hours
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to update data
     runs-on: macos-11
     steps:
       # Summary Cards

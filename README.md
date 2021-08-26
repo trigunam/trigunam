@@ -29,6 +29,3 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work 
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trigunam&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="50%" alt="Octo Ring logo" align="top"></a><br><img src="https://octo-ring.com/static/img/widget/bottom.png" width="50%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>

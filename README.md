@@ -2,18 +2,11 @@ My name is Triguna Mutuguppe Sripathi. I work as a Full Stack Architect at Phili
 
 ![Snake animation](https://github.com/trigunam/trigunam/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on Software Bill of Material and promoting open and inner source within Philips.
-- 🌱 I’m currently learning Rust-lang.
-- 💬 Ask me about sourdough bread, brewing beer, synthesizers and drum-computers
+- 🔭 I’m currently working on HSP Self Service UI for IAM, S3, Audit, Notification, BDP and promoting open and inner source within Philips.
+- 🌱 I’m currently learning Github Actions.
+- 💬 Ask me about [Playstation](https://www.youtube.com/channel/UCv4Uy64oNR4vzMREojY9Mgw?sub_confirmation=1), solving any problem and best way to troubleshoot
 - 📫 How to reach me: That should not be too hard
-- ⚡ Fun fact: I love the following number sequences: 101, 202, 303, 606, 707, 727, 808 and 909
-
-### Identity
-
-[identity Box](https://idbox.online): `did:ipid:QmZvCkz1coWfNJ19DKZpn3ztKLrzvXvUcV1pcfM2wcHXH8`
-<img src="./idbox-jeroen.png" align="right" width="175px" height="175px">
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=trigunam&repo=trigunam&countColorcountColor)
+- ⚡ Fun fact: I love solving puzzles in free time and [game for a chess](https://www.chess.com/member/gametriguna)
 
 ### Analytics ⚙️
 
@@ -45,9 +38,6 @@ My name is Triguna Mutuguppe Sripathi. I work as a Full Stack Architect at Phili
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trigunam)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/trigunam/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/trigunam/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/JeroenKnoops/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/trigunam/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/trigunam/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/trigunam/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>

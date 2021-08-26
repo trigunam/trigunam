@@ -1,10 +1,10 @@
 I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work as a Full Stack Architect at Philips HealthSuite Platform.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=trigunam&repo=trigunam&countColorcountColor)
-
 ![Snake animation](https://github.com/trigunam/trigunam/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on HSP Self Service UI for IAM, S3, Audit, Notification, BDP and promoting open and inner source within Philips.
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=trigunam&repo=trigunam&countColorcountColor)
+
+- 🖥️ I’m currently working on HSP Self Service UI for IAM, S3, Audit, Notification, BDP and promoting open and inner source within Philips.
 - 🌱 I’m currently learning Github Actions.
 - 💬 Ask me about [Playstation](https://www.youtube.com/channel/UCv4Uy64oNR4vzMREojY9Mgw?sub_confirmation=1), solving any problem and best way to troubleshoot
 - 📫 How to reach me: That should not be too hard
@@ -12,15 +12,15 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work 
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trigunam&layout=compact&count_private=true)
-
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=trigunam&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=trigunam&hide_border=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trigunam&layout=compact&count_private=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=trigunam&hide_border=true) 
 
 <p align="center">
-  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
-  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
+  <img width="63%" src="profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img width="35%" src="profile-summary-card-output/nord_dark/4-productive-time.svg" />
 </p>
 
 ### Let's connect? 🤝
@@ -35,4 +35,4 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trigunam&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<table><tbody><tr><td /><td /><td /><td /><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="50%" alt="Octo Ring logo" align="top"></a><br><img src="https://octo-ring.com/static/img/widget/bottom.png" width="50%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td><td /><td /><td /><td /></tr></tbody></table>
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="50%" alt="Octo Ring logo" align="top"></a><br><img src="https://octo-ring.com/static/img/widget/bottom.png" width="50%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>

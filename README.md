@@ -12,11 +12,7 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work 
 
 ### Analytics ⚙️
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=trigunam&count_private=true&show_icons=true)
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trigunam&layout=compact&count_private=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=trigunam&hide_border=true) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trigunam&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img width="63%" src="profile-summary-card-output/nord_dark/0-profile-details.svg" />

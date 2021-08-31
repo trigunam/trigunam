@@ -15,8 +15,6 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_INFO }}
-        with:
-          USERNAME: trigunam
 
       # Snake Animation
       - uses: Platane/snk@master

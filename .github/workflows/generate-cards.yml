@@ -16,7 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_INFO }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: trigunam
 
       # Snake Animation
       - uses: Platane/snk@master

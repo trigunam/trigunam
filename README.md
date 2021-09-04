@@ -20,6 +20,8 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/) and work
 
 [![tostring-impl](https://user-images.githubusercontent.com/10085371/132096111-6ced82b0-c993-466b-a2e1-c2b10874f9e1.gif)](https://github.com/trigunam/tostring-implementation/blob/master/docs/usage-guide.md#using-maven-central)
 
+#### [Reusable REST Header - JavaScript Utility for REST APIs](https://github.com/trigunam/reusable-rest-header)
+
 ### Analytics ⚙️
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trigunam&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)

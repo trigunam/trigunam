@@ -1,4 +1,4 @@
-I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work as a Full Stack Architect at Philips HealthSuite Platform.
+I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/) and work as a Full Stack Architect at Philips HealthSuite Platform and reusable components in github with Java, JavaScript, Python, User Interface (React.js, Next.js, Angular).
 
 ![Snake animation](https://github.com/trigunam/trigunam/blob/output/github-contribution-grid-snake.svg)
 
@@ -10,13 +10,14 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/). I work 
 - 📫 How to reach me: That should not be too hard
 - ⚡ Fun fact: I love solving puzzles in free time and [game for a chess](https://www.chess.com/member/gametriguna)
 
-### Technologies 🖥🤖🧑‍💻
+### Technologies 🧑‍💻
 
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey) [![Node](https://img.shields.io/badge/node--lts-v14.x.x-brightgreen)](https://newrelic.com/) [![Newrelic](https://img.shields.io/badge/New%20Relic-Observability%20made%20simple-%2300838F)](https://newrelic.com/) [![Python](https://img.shields.io/badge/python-v3.9.x-blue)](https://www.python.org/) [![React](https://img.shields.io/badge/react-v17.x.x-lightblue)](https://www.python.org/)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey) [![Node](https://img.shields.io/badge/node--lts-v14.x.x-brightgreen)](https://nodejs.org/en/) [![Newrelic](https://img.shields.io/badge/New%20Relic-Observability%20made%20simple-%2300838F)](https://newrelic.com/) [![Python](https://img.shields.io/badge/python-v3.9.x-blue)](https://www.python.org/) [![React](https://img.shields.io/badge/react-v17.x.x-lightblue)](https://reactjs.org/docs/thinking-in-react.html)
 
-### Repositories 💾💿📒
+### Repositories 📒
 
 #### [toString - implementation - Java Utility](https://github.com/trigunam/tostring-implementation)
+
 
 ### Analytics ⚙️
 

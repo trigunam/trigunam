@@ -16,7 +16,7 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/) and work
 
 ### Repositories 📒
 
-#### [Reusable REST Header - JavaScript Utility for REST APIs](https://github.com/trigunam/reusable-rest-header)
+#### 1. [Reusable REST Header - JavaScript Utility for REST APIs](https://github.com/trigunam/reusable-rest-header)
 
 `new RESTHeader(1).addBearerAuth(uuidv4()).build();`
 Outputs:
@@ -30,7 +30,7 @@ Outputs:
 }
 ```
 
-#### [toString - implementation - Java Utility](https://github.com/trigunam/tostring-implementation)
+#### 2. [toString - implementation - Java Utility](https://github.com/trigunam/tostring-implementation)
 
 [![tostring-impl](https://user-images.githubusercontent.com/10085371/132096111-6ced82b0-c993-466b-a2e1-c2b10874f9e1.gif)](https://github.com/trigunam/tostring-implementation/blob/master/docs/usage-guide.md#using-maven-central)
 

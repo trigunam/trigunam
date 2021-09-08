@@ -45,10 +45,9 @@ Outputs:
 
 ### Let's connect? 🤝
 
-[![Screenshot 2021-09-08 at 11 01 04 PM](https://user-images.githubusercontent.com/10085371/132556855-d231f421-cfc0-4e39-998b-9ce830bec4bf.png)](https://www.linkedin.com/in/triguna/)
+[![Screenshot 2021-09-08 at 11 02 25 PM](https://user-images.githubusercontent.com/10085371/132557065-15e35b1e-46e5-4f81-9eae-8da4c7fa662e.png)](https://www.linkedin.com/in/triguna/)
 <p>
 <a href="https://twitter.com/trigsO"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/mutuguppe_trigs/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://www.facebook.com/triguna.m.sripathi"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-
 </p>
 
 ### Trophies

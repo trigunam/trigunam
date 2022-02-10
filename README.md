@@ -12,6 +12,8 @@ I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/) and work
 
 ### Technologies 🧑‍💻
 
+[![solace-certified-event-driven-architecture-practitioner (1)](https://user-images.githubusercontent.com/10085371/153451189-55c8d99f-dfed-4bdc-9afa-b441d3d70ee8.png)](https://www.credly.com/badges/00243829-e0ec-44e9-a236-da9df253e307/public_url)
+
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey) [![Node](https://img.shields.io/badge/node--lts-v16.x.x-brightgreen)](https://nodejs.org/en/) [![Newrelic](https://img.shields.io/badge/New%20Relic-Observability%20made%20simple-%2300838F)](https://newrelic.com/) [![Python](https://img.shields.io/badge/python-v3.10.x-blue)](https://www.python.org/) [![React](https://img.shields.io/badge/react-v18.x.x-lightblue)](https://reactjs.org/docs/thinking-in-react.html)
 
 ### Repositories 📒

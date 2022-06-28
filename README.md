@@ -1,4 +1,4 @@
-I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/) and work as a Full Stack Architect at Philips HealthSuite Platform and reusable components in github with Java, JavaScript, Python, User Interface (React.js, Next.js, Angular).
+I am [Triguna Mutuguppe Sripathi](https://www.linkedin.com/in/triguna/) and work as a Full Stack Architect at Cisco Systems and reusable components in github with Java, JavaScript, Python, User Interface (React.js, Next.js, Angular).
 
 ![Snake animation](https://github.com/trigunam/trigunam/blob/output/github-contribution-grid-snake.svg)
 
